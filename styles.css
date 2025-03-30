@@ -7,7 +7,17 @@ body {
 }
 
 .container {
-    margin-top: 100px;
+    margin-top: 50px;
+}
+
+.input-group {
+    margin: 10px;
+}
+
+input {
+    width: 60px;
+    padding: 5px;
+    text-align: center;
 }
 
 button {
